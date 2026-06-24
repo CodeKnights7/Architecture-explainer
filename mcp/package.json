@@ -1,0 +1,13 @@
+{
+  "name": "wiki-mcp-server",
+  "version": "1.0.0",
+  "description": "Lightweight MCP-compatible Wikipedia search server (no API keys)",
+  "main": "wiki-server.js",
+  "scripts": {
+    "start": "node wiki-server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
